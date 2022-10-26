@@ -1,25 +1,25 @@
 [
     {
       "id": "16358fc3c1116bc36eccd4661",
-      "name": "MERN Stack Development",
-      "duration": 5,
-      "total_class": 488,
-      "total_fee": 488,
-      "total_project": 488,
-      "title": "Three in one!",
-      "image_url": "https://photos.google.com/search/_tra_/photo/AF1QipMPW389N4T5RsG-RDMsjwnPncMa5RNEkUhASa_P",
-      "details": "Mern stack development is a subject where web design, web development and app development can be mastered together. At present Mern Stack Developers are in high demand in the market place and domestic companies. So enroll in Mern Stack Development course to build skills.In computer software and application development, a full-stack developer is a person who has the skills to manage, project plan, and develop front-end, back-end, and software code. So our course is designed in such a way that after completing the course you can work as a web designer, web developer, app developer, backend developer or even a stack developer.Opt for the Certified Maroon Stack Development Course to build a career with the times."
+      "name": "Artificial intelligence",
+      "duration": 3,
+      "total_class": 276,
+      "total_fee": 234,
+      "total_project": 200,
+      "title": "Artificial intelligence (AI) refers to the simulation",
+      "image_url": "https://images.pexels.com/photos/2599244/pexels-photo-2599244.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Artificial intelligence is based on the principle that human intelligence can be defined in a way that a machine can easily mimic it and execute tasks, from the most simple to those that are even more complex. The goals of artificial intelligence include mimicking human cognitive activity. Researchers and developers in the field are making surprisingly rapid strides in mimicking activities such as learning, reasoning, and perception, to the extent that these can be concretely defined. Some believe that innovators may soon be able to develop systems that exceed the capacity of humans to learn or reason out any subject. But others remain skeptical because all cognitive activity is laced with value judgments that are subject to human experience."
     },
     {
       "id": "6358fc3cf070f7dc886e117c",
       "name": "Cyber Security",
       "duration": 5,
       "total_class": 488,
-      "total_fee": 488,
-      "total_project": 488,
-      "title": "Learn to be an ethical hacker",
-      "image_url": "https://photos.google.com/search/_tra_/photo/AF1QipNI-Qbu_tC6bJ3y-iOJis0S032Yi5wm0GQRxEZn",
-      "details": "According to a survey, only in 2021, the total loss of various companies due to cyber attacks around the world is about 6 trillion dollars. Another survey shows that during this crisis of Covid-19, the amount of cyber crime has increased by almost 600 percent! From here we can get an idea of ​​the increasing demand for cyber security analysts or cyber engineers to increase cyber security. Ethical hackers are getting smart salaries in keeping with the times. So choose our cyber security course to make a career as a hacker.Our course is designed in such a way that you learn the ins and outs of cyber security from scratch. Even if you are from non-technical background, you can easily do this course if you have interest. From the basics of network scanning to trendy topics like cryptography, you can learn from this course.We are ready to accompany you on your cyber career journey with experienced mentors and modern labs, are you coming?"
+      "total_fee": 458,
+      "total_project": 388,
+      "title": "Privacy: If this isn't an issue for you",
+      "image_url": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "details": "Cyber security is a discipline that covers how to defend devices and services from electronic attacks by nefarious actors such as hackers, spammers, and cybercriminals. While some components of cyber security are designed to strike first, most of today's professionals focus more on determining the best way to defend all assets, from computers and smartphones to networks and databases, from attacks. Cyber security has been used as a catch-all term in the media to describe the process of protection against every form of cybercrime, from identity theft to international digital weapons. These labels are valid, but they fail to capture the true nature of cyber security for those without a computer science degree or experience in the digital industry."
     },
     {
       "id": "6358fc3c289dadba10b8a1ca",
