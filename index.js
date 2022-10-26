@@ -8,7 +8,7 @@ const Port = process.env.Port || 5000;
 const courseData = require("./Data/courses.json");
 
 app.get("/courses", (req, res) => {
-  res.send("runing");
+  res.send(courseData);
 });
 
 app.listen(Port, () => {
